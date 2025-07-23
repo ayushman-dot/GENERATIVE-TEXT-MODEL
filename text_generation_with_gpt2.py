@@ -1,5 +1,3 @@
-# Text Generation with GPT-2
-
 !pip install transformers
 !pip install torch
 
