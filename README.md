@@ -23,9 +23,6 @@ In this notebook, we use the transformers library by Hugging Face, which makes l
 
 *OUTPUT*
 
-<img width="1711" height="122" alt="Image" src="https://github.com/user-attachments/assets/59dd102f-6aa6-4f26-add2-5b5ac6ce22bc" />
-
-
 <img width="1781" height="99" alt="Image" src="https://github.com/user-attachments/assets/cbf79d32-8629-46db-8d2f-ebf2092a8c64" />
 
 <img width="1770" height="73" alt="Image" src="https://github.com/user-attachments/assets/073fd260-f53a-4067-a4b5-d6b5ecbe1cba" />
